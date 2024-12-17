@@ -1,0 +1,3 @@
+# Inventory manager
+
+![](ss.png)
